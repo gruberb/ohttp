@@ -6,6 +6,7 @@ members = [
   "ohttp",
   "ohttp-client",
   "ohttp-client-cli",
+  "ohttp-gateway",
   "ohttp-server",
 ]
 
